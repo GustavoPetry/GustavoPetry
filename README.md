@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
+#### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá!
 
 Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produzir e ensinar. Possuo espírito inovador, gosto de trabalhar em equipe e de me relacionar com pessoas. Atualmente eu sou líder front-end de uma startup chamada **The New Butchers** e **Eat Clean**. Realizo meus projetos utilizando a melhor tecnologia e seguindo as melhores práticas.
 
