@@ -10,6 +10,6 @@ Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produ
 
 
 #### Reach me out 👇
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/gustavopetry95/)](https://www.linkedin.com/in/gustavopetry95/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/isadorastan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/gustavopetry95/)](https://www.linkedin.com/in/gustavopetry95/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/gustavopetry_95/?hl=cs)](https://www.instagram.com/gustavopetry_95/?hl=cs) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/isadorastan)
 
 
