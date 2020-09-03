@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**GustavoPetry/GustavoPetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produzir e ensinar. Possuo espírito inovador, gosto de trabalhar em equipe e de me relacionar com pessoas. Atualmente eu sou líder front-end de uma startup chamada **The New Butchers** e **Eat Clean**. Realizo meus projetos utilizando a melhor tecnologia e seguindo as melhores práticas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌎 **"Quanto mais eu sei, mais eu sou"**
+
+-  📍  From RS living in São Paulo, SP
+- 💻 Front-end at [Eat Clean](https://www.instagram.com/eatclean_brasil/?hl=pt-br) and [The New Butchers](https://www.instagram.com/thenewbutchers/?hl=pt-br)
+
+
+#### Reach me out 👇
+
+
