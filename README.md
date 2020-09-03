@@ -15,6 +15,11 @@ Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produ
 
 #### **Stack**
 
-- **HTML   - CSS   -BOOTSTRAP   - BULMA   - JAVASCRIPT   - REACT JS** 
+- **HTML**   
+- **CSS** 
+- **BOOTSTRAP**  
+- **BULMA**
+- **JAVASCRIPT**  
+- **REACT JS** 
 
 
