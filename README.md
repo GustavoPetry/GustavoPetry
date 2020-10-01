@@ -24,6 +24,6 @@ Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produ
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)<br />
 
 
-#### **Visitors**
+#### **Visitors on my profile**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoPetry)
 
