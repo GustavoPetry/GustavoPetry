@@ -5,7 +5,7 @@ Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produ
 
 #### 🌎 **"Mire na lua e mesmo que você erre, ainda cairá entre as estrelas"**
 
--  📍  From RS living in São Paulo, SP
+-  📍  From RS, living in São Paulo, SP
 - 💻 Intern Tech at [Itaú Unibanco](https://www.itau.com.br/)
 
 
