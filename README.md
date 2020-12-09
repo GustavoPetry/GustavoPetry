@@ -27,3 +27,5 @@ Olá! Me chamo **Gustavo Petry**, sou um desenvolvedor que adora realizar, produ
 #### **Visitors on my profile**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoPetry)
 
+![Gustavo Petry's github stats](https://github-readme-stats.vercel.app/api?username=GustavoPetry&show_icons=true&theme=radical)
+
